@@ -15,4 +15,3 @@ There are 4 samples per channel per millisecond (which is oversampling) –> ave
 Could we imagine meeting next week one day for working on this, defining the data inputs, the data display format, ...? From Monday to Wednesday I will have to stay in the Lausanne area, but Thursday and Friday I can move either to Sion or Lausanne. Please let me know your availability.
  
 Please let me know should you have further questions or needs in the meantime.
- 
